@@ -83,8 +83,3 @@ This project demonstrates how raw Formula 1 data can be transformed into a full 
 It replicates a simplified sports analytics pipeline used in real-world data analysis environments.
 
 ---
-
-
-
-## 🔥 Note
-This dataset includes all available F1 seasons in the database, not limited to a specific year range.
