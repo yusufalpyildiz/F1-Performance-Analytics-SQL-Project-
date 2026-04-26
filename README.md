@@ -84,21 +84,7 @@ It replicates a simplified sports analytics pipeline used in real-world data ana
 
 ---
 
-## 📈 Future Improvements
-- Add lap time & qualifying analysis  
-- Build Power BI / Tableau dashboard  
-- Implement ELO-based driver rating system  
-- Constructor performance modeling  
-- Seasonal trend visualizations  
 
----
-
-## 🛠️ Tech Stack
-- MySQL  
-- SQL (Advanced analytics queries)  
-- Data modeling (staging approach)  
-
----
 
 ## 🔥 Note
 This dataset includes all available F1 seasons in the database, not limited to a specific year range.
